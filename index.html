@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokedex</title>
+    <title>Pokedex - Projeto Dio</title>
 
     <!-- Normalize -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
@@ -24,17 +24,28 @@
 
 <body>
     <section class="content">
-        <h1>Pokedex</h1>
+        <header>
+            <img src="https://user-images.githubusercontent.com/29473781/180619084-a56960ab-7efa-4e34-9d33-4e3e581d62ff.png"
+                alt="" class="logo">
+        </header>
 
         <ol id="pokemonList" class="pokemons">
             <!-- ..... Pokemons here ..... -->
         </ol>
+
+        <div id="pokemonModal">
+            <div class="modal-content">
+                <span class="close-button">&times;</span>
+                <div id="modalDetails"></div>
+            </div>
+        </div>
 
         <div class="pagination">
             <button id="loadMoreButton" type="button">
                 Load More
             </button>
         </div>
+
     </section>
 
     <!-- JS -->
