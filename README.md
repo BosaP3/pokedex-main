@@ -1,4 +1,16 @@
-# Treinamento JS + Front
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-### Entendendo a importância do Git/GitHub nos Desafios de Projeto da DIO, além de explorar o mundo Pokémon através do consumo de uma API REST para a criação de uma Pokédex! 
-### Para isso, você irá explorar, além do JavaScript, todos os fundamentos de desenvolvimento Web aprendidos até aqui.
+## Treinamento JS + Front
+
+O projeto consiste em simular uma pokedex de Pokemon. Todos os dados são chamados através da Pokeapi.
+
+![Texto alternativo](images/Pokedex.png)
+
+## Tecnologias Usadas
+
+- HTML
+- CSS
+- JavaScript Vanilla
+- [PokéAPI](https://pokeapi.co/)
