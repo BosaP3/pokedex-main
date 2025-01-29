@@ -8,6 +8,10 @@ O projeto consiste em simular uma pokedex de Pokemon. Todos os dados são chamad
 
 ![Texto alternativo](images/Pokedex.png)
 
+--------------------------------------
+
+![Texto alternativo](images/info_Gengar.png)
+
 ## Tecnologias Usadas
 
 - HTML
